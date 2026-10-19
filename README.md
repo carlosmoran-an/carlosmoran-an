@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Carlos Andrés Morán Meza👋
 
-<!--
-**carlosmoran-an/carlosmoran-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software en Ecuador 🇪🇨, con interés en el desarrollo de software y la resolución de problemas.
 
-Here are some ideas to get you started:
+## 📚 Lo que estoy aprendiendo
+- Python
+- Estructuras de Datos (listas, pilas, colas, árboles)
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mis objetivos
+- Construir proyectos propios y subirlos a este perfil
+- Conseguir una pasantía en desarrollo de software
+
+## 📫 Contacto
+- Correo: carlosmoran.an@gmail.com
+- LinkedIn: https://www.linkedin.com/in/carlos-moran-dev/
